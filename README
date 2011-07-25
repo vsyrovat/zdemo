@@ -1,0 +1,5 @@
+Console mode demo:
+type 'helloworld/app/run' in console
+
+HTTP mode demo:
+set 'helloworld/www' as DocumentRoot then open it in browser
